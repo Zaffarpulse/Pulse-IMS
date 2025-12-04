@@ -1,0 +1,8 @@
+{
+  "name": "Pulse Hospital IMS",
+  "description": "Pulse Hospital Inventory & Services Management System. Role-based access for Admin, Store, Medical, Housekeeping, and Allied departments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
